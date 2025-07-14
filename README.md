@@ -41,15 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakeebrehman&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeebrehman&layout=compact&theme=github_dark" height="150" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p>
